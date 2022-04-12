@@ -1,0 +1,289 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2908289100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Home page",
+        "description": "",
+        "id": "facebook-login-demo;home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 36900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.close()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1223434600,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "This is to check background functionality",
+            "match": {
+              "location": "LoginStepDef.this_is_a_given_statement()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 197715300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Enter the fields username and password",
+            "match": {
+              "location": "LoginStepDef.enter_the_fields_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 116400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Print Something",
+            "match": {
+              "location": "LoginStepDef.print_something()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 50200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "This is also a conjunction statement",
+            "match": {
+              "location": "LoginStepDef.this_is_also_a_conjunction_statement()"
+            },
+            "keyword": "But "
+          },
+          {
+            "result": {
+              "duration": 4193270300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Close the chrome browser",
+            "match": {
+              "location": "LoginStepDef.close_the_chrome_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1404312900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Home page",
+        "description": "",
+        "id": "facebook-login-demo;home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 25400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.close()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1051112900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "This is to check background functionality",
+            "match": {
+              "location": "LoginStepDef.this_is_a_given_statement()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 252077100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Enter the fields username and password",
+            "match": {
+              "location": "LoginStepDef.enter_the_fields_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 79300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Print Something",
+            "match": {
+              "location": "LoginStepDef.print_something()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 34700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "This is also a conjunction statement",
+            "match": {
+              "location": "LoginStepDef.this_is_also_a_conjunction_statement()"
+            },
+            "keyword": "But "
+          },
+          {
+            "result": {
+              "duration": 426964900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Close the chrome browser",
+            "match": {
+              "location": "LoginStepDef.close_the_chrome_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1695868600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Home page",
+        "description": "",
+        "id": "facebook-login-demo;home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 55500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.close()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 964494200,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "This is to check background functionality",
+            "match": {
+              "location": "LoginStepDef.this_is_a_given_statement()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 162336000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Enter the fields username and password",
+            "match": {
+              "location": "LoginStepDef.enter_the_fields_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 99200,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Print Something",
+            "match": {
+              "location": "LoginStepDef.print_something()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 35700,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "This is also a conjunction statement",
+            "match": {
+              "location": "LoginStepDef.this_is_also_a_conjunction_statement()"
+            },
+            "keyword": "But "
+          },
+          {
+            "result": {
+              "duration": 4367721500,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Close the chrome browser",
+            "match": {
+              "location": "LoginStepDef.close_the_chrome_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Facebook login demo",
+    "description": "",
+    "id": "facebook-login-demo",
+    "keyword": "Feature",
+    "uri": "Features/fbdemo.feature",
+    "tags": []
+  }
+]
